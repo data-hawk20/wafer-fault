@@ -1,4 +1,4 @@
-## Wafer Fault Detection
+## Wafer Fault Detection Project
 
 #### Problem Statement:
     
